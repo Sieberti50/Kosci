@@ -1,4 +1,4 @@
-System operacyjny: Windows (wpisz wersję, której używasz)
+System operacyjny: Windows 
 Środowiska programistyczne: Visual Studio 2022 (aplikacja konsolowa), Android Studio (aplikacja mobilna)
 Emulator aplikacji mobilnej: Android Emulator – Pixel 5, API 30
 Języki programowania: C# (aplikacja konsolowa), Java i XML (aplikacja mobilna)
